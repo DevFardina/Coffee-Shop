@@ -33,7 +33,7 @@
     border-bottom: wheat 1px solid;
 }
 .banner {
-    background-image:url(home-img.jpeg);
+    background-image:url("./images/home-img.jpeg");
     height: 80vh;
     width:100vw;
     background-repeat: no-repeat;
